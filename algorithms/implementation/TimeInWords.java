@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+public class TimeInWords {
 
     public static void main(String[] args) {
 		Map<String, String> MAP = new HashMap<String, String>();
