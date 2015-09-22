@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class Solution {
+class SolveMeSecond {
 
     static int solveMeSecond(int a, int b) {
         return a+b;
